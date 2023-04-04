@@ -1,0 +1,15 @@
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\bin\Debug\net6.0\TareaColeccionesPOO.exe
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\bin\Debug\net6.0\TareaColeccionesPOO.deps.json
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\bin\Debug\net6.0\TareaColeccionesPOO.runtimeconfig.json
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\bin\Debug\net6.0\TareaColeccionesPOO.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\bin\Debug\net6.0\TareaColeccionesPOO.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.AssemblyInfo.cs
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\refint\TareaColeccionesPOO.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\TareaColeccionesPOO.genruntimeconfig.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\Clase 4\TareaColeccionesPOO\TareaColeccionesPOO\obj\Debug\net6.0\ref\TareaColeccionesPOO.dll
